@@ -1,0 +1,16 @@
+{
+  "name": "Tiny Museum",
+  "short_name": "Tiny Museum",
+  "description": "A personal museum for ordinary objects and their stories.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4efe6",
+  "theme_color": "#f4efe6",
+  "icons": [
+    {
+      "src": "/static/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
